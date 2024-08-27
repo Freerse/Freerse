@@ -50,7 +50,7 @@ Future<void> main() async {
           childBuilder: () {
             String? localSave = SpUtil.getString("APP_LOCALE");
             Locale localeNow = ui.window.locale;
-            if (localSave.isNotEmpty) {
+            if (localSave!.isNotEmpty) {
               List<String> localList = localSave.split("_");
               if (localList.length == 2) {
                 localeNow = Locale(localList.first, localList.last);
