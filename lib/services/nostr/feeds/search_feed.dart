@@ -309,7 +309,7 @@ class SearchFeed {
     for (var userId in blackUserIdList) {
       newIdList.add(["p",userId]);
     }
-    nostrService.writeEvent('BLACK_USER_INFO', 10002,  newIdList);
+    nostrService.writeEvent('MUTE_USER_INFO', 10002,  newIdList);
   }
 
   var backUserTime = 0.obs;
@@ -322,7 +322,7 @@ class SearchFeed {
       var content = eventMap['content'];
       // print(eventMap);
 
-      if(createdAt > backUserTime.value && content == 'BLACK_USER_INFO'){
+      if(createdAt > backUserTime.value && content == 'MUTE_USER_INFO'){
         print(eventMap);
         backUserTime.value = createdAt;
         blackUserIdList.clear();
