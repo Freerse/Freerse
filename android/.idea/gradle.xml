@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/camera_android-0.10.8+13/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/file_picker-5.5.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/flutter_inapp_purchase-5.4.2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/flutter_native_splash-2.3.5/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.17/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/flutter_secure_storage-6.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/flutter_zxing-1.4.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/image_gallery_saver-2.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.8+2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/path_provider_android-2.2.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/permission_handler_android-11.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/scan-1.6.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/share_plus-7.2.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.2.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/sqflite-2.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/status_bar_control-3.2.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/url_launcher_android-6.2.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/video_player_android-2.4.11/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter_pub_cache/hosted/pub.flutter-io.cn/webview_flutter_android-3.12.1/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

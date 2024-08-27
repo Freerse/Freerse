@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/.dart_tool
+/.gradle
+.flutter-plugins
+.flutter-plugins-dependencies
+/.idea
+
+/README.txt
+android/app/release/
