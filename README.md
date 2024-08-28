@@ -6,7 +6,7 @@
 
 ## Freerse Download links:
 ![iOS](https://apps.apple.com/au/app/freerse/id6450604093)
-![Android][https://play.google.com/store/apps/details?id=com.apps.freerse]
+[Android](https://play.google.com/store/apps/details?id=com.apps.freerse)
 
 
 ![Freerse](https://Freerse.com/screenshots/160/Freerse-release.jpg)
