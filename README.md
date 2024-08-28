@@ -60,13 +60,11 @@ Use an Android Studio build action to install and run the app on your device or 
 
 | Publish Tweets                              |  
 |-------------------------------------------|
-| ![Publish Tweets](./screenshots/1.png) |
+| ![Publish Tweets](./screenshots/2.png) |
 
-# screenshot
-
-<img src="./screenshots/1.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
-<img src="./screenshots/2.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
-<img src="./screenshots/3.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
+| User Center                              |  
+|-------------------------------------------|
+| ![User Center](./screenshots/3.png) |
 
 
 ## Questions / Contact / Feedback
