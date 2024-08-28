@@ -52,6 +52,16 @@ Use an Android Studio build action to install and run the app on your device or 
 5. Wait for Package Dependencies to finish downloading
 6. Run
 
+# Screenshots
+
+| User Tweets                              |  
+|-------------------------------------------|
+| ![Home Tweets](./screenshots/1.png) | 
+
+| Publish Tweets                              |  
+|-------------------------------------------|
+| ![Publish Tweets](./screenshots/1.png) |
+
 # screenshot
 
 <img src="./screenshots/1.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
