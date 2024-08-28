@@ -53,17 +53,17 @@ Use an Android Studio build action to install and run the app on your device or 
 
 # Screenshots
 
-| User Tweets                              |  
+| Social applications built on decentralized protocols  |  
 |-------------------------------------------|
-| ![Home Tweets](./screenshots/1.png) | 
+| ![Home Freerse](./screenshots/1.png) | 
 
-| Publish Tweets                              |  
+| Posts and long articles subscription publishing |  
 |-------------------------------------------|
-| ![Publish Tweets](./screenshots/2.png) |
+| ![Publish Freerse](./screenshots/2.png) |
 
-| User Center                              |  
+| Use Bitcoin to reward posts, Zap |  
 |-------------------------------------------|
-| ![User Center](./screenshots/3.png) |
+| ![User Zap](./screenshots/3.png) |
 
 
 ## Questions / Contact / Feedback
