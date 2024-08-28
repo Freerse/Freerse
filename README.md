@@ -14,7 +14,7 @@
 -  [APK](https://github.com/Freerse/Freerse/releases/tag/v1.5.11)
 
 
-![Freerse](https://Freerse.com/screenshots/160/Freerse-release.jpg)
+![](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
 ## Dependencies
 
