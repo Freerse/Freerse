@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://amethyst.social">
-    <img src="./docs/design/3rd%20Logo%20-%20Zitron/amethyst.svg" alt="Amethyst Logo" title="Amethyst logo" width="80"/>
+<a href="https://Freerse.com">
+    <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="80"/>
 </a>
 
 </div>
@@ -43,16 +43,8 @@
 # ![screenshots](/screenshots/1.jpg)
 #### ![screenshots](/screenshots/2.jpg)
 #### ![screenshots](/screenshots/3.jpg)
-#### ![screenshots](/screenshots/4.jpg)
-#### ![screenshots](/screenshots/5.jpg)
-#### ![screenshots](/screenshots/6.jpg)
-#### ![screenshots](/screenshots/7.jpg)
-#### ![screenshots](/screenshots/8.jpg)
-#### ![screenshots](/screenshots/9.jpg)
-#### ![screenshots](/screenshots/10.jpg)
-#### ![screenshots](/screenshots/11.jpg)
-#### ![screenshots](/screenshots/12.jpg)
-#### ![screenshots](/screenshots/13.jpg)
+
+
 
 
 ## Questions / Contact / Feedback
