@@ -2,6 +2,7 @@
 
 <a href="https://Freerse.com">
     <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="80"/>
+    <h5>Freerse</h5>
 </a>
 
 </div>
@@ -24,29 +25,45 @@
 
 ![](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
-## Dependencies
 
-- Xcode 15.x
-- iOS SDK 16.x
+## Setup Android environment
 
-## Setup dev environment
+Make sure to have the following pre-requisites installed:
+1. Java 17+
+2. Android Studio
+3. Android 8.0+ Phone or Emulation setup
 
-1. Clone this repository
-2. Set up flutter devlopment 
-3. Enter API keys in Config.xcconfig. 
-4. Open Freerse.xcodeproj in Xcode
-5. Wait for Package Dependencies to finish downloading
-6. Run
+Fork and clone this repository and import it into Android Studio
+```bash
+git clone https://github.com/Freerse/Freerse.git
+```
 
-# screenshot
+Use an Android Studio build action to install and run the app on your device or a simulator.
 
-<img src="./screenshots/1.jpg" alt="Freerse Logo" title="Freerse logo" width="280"/>
+## Setup Ios environment
 
-# ![screenshots](/screenshots/1.jpg)
-#### ![screenshots](/screenshots/2.jpg)
-#### ![screenshots](/screenshots/3.jpg)
+1. Xcode 15.x
+2. iOS SDK 16.x
+3. Clone this repository
+4. Set up flutter devlopment 
+5. Enter API keys in Config.xcconfig. 
+6. Open Freerse.xcodeproj in Xcode
+7. Wait for Package Dependencies to finish downloading
+8. Run
 
+# Screenshots
 
+| User Tweets                              |  
+|-------------------------------------------|
+| ![Home Tweets](./screenshots/1.png) | 
+
+| Publish Tweets                              |  
+|-------------------------------------------|
+| ![Publish Tweets](./screenshots/2.png) |
+
+| User Center                              |  
+|-------------------------------------------|
+| ![User Center](./screenshots/3.png) |
 
 
 ## Questions / Contact / Feedback
