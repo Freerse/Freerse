@@ -29,7 +29,21 @@
 - Xcode 15.x
 - iOS SDK 16.x
 
-## Setup dev environment
+## Setup Android environment
+
+Make sure to have the following pre-requisites installed:
+1. Java 17+
+2. Android Studio
+3. Android 8.0+ Phone or Emulation setup
+
+Fork and clone this repository and import it into Android Studio
+```bash
+git clone https://github.com/Freerse/Freerse.git
+```
+
+Use an Android Studio build action to install and run the app on your device or a simulator.
+
+## Setup Ios environment
 
 1. Clone this repository
 2. Set up flutter devlopment 
