@@ -1,8 +1,26 @@
+<div align="center">
+
+<a href="https://Freerse.com">
+    <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="80"/>
+</a>
+
+</div>
+
 # Freerse - a nostr client for  iPhone and Android
 
-**nostr**: An open protocol: https://github.com/nostr-protocol/nostr
+**Decentralized social applications built on Nostr.** : https://github.com/nostr-protocol/nostr
 
-**Freerse**: Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity, see https://freerse.com for a list of features or to download releases.
+**Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity.** https://freerse.com 
+
+**Everything you need to know about using freerse.** https://freerse.com/help-center
+
+
+## Freerse Download links:
+-  [iOS](https://apps.apple.com/au/app/freerse/id6450604093)
+-  [Android](https://play.google.com/store/apps/details?id=com.apps.freerse)
+-  [Testflight](https://testflight.apple.com/join/IbJTYBAa)
+-  [APK](https://github.com/Freerse/Freerse/releases/tag/v1.5.11)
+
 
 ![](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
@@ -20,21 +38,13 @@
 5. Wait for Package Dependencies to finish downloading
 6. Run
 
-# 效果图
+# screenshot
 
-#### ![screenshots](/screenshots/1.jpg)
+# ![screenshots](/screenshots/1.jpg)
 #### ![screenshots](/screenshots/2.jpg)
 #### ![screenshots](/screenshots/3.jpg)
-#### ![screenshots](/screenshots/4.jpg)
-#### ![screenshots](/screenshots/5.jpg)
-#### ![screenshots](/screenshots/6.jpg)
-#### ![screenshots](/screenshots/7.jpg)
-#### ![screenshots](/screenshots/8.jpg)
-#### ![screenshots](/screenshots/9.jpg)
-#### ![screenshots](/screenshots/10.jpg)
-#### ![screenshots](/screenshots/11.jpg)
-#### ![screenshots](/screenshots/12.jpg)
-#### ![screenshots](/screenshots/13.jpg)
+
+
 
 
 ## Questions / Contact / Feedback
