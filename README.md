@@ -1,3 +1,11 @@
+<div align="center">
+
+<a href="https://amethyst.social">
+    <img src="./docs/design/3rd%20Logo%20-%20Zitron/amethyst.svg" alt="Amethyst Logo" title="Amethyst logo" width="80"/>
+</a>
+
+</div>
+
 # Freerse - a nostr client for  iPhone and Android
 
 **Decentralized social applications built on Nostr.** : https://github.com/nostr-protocol/nostr
