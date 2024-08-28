@@ -2,7 +2,7 @@
 
 **Decentralized social applications built on Nostr** : https://github.com/nostr-protocol/nostr
 
-**Freerse**: Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity, see https://freerse.com for a list of features or to download releases.
+**Freerse**: Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity. https://freerse.com 
 
 ![Freerse](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
