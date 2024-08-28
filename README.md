@@ -40,6 +40,8 @@
 
 # screenshot
 
+<img src="./screenshots/1.jpg" alt="Freerse Logo" title="Freerse logo" width="280"/>
+
 # ![screenshots](/screenshots/1.jpg)
 #### ![screenshots](/screenshots/2.jpg)
 #### ![screenshots](/screenshots/3.jpg)
