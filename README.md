@@ -4,7 +4,7 @@
 
 **Freerse**: Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity, see https://freerse.com for a list of features or to download releases.
 
-![](https://Freerse.com/screenshots/160/Freerse-release.jpg)
+![Freerse](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
 ## Dependencies
 
