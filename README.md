@@ -20,9 +20,9 @@
 5. Wait for Package Dependencies to finish downloading
 6. Run
 
-# 效果图
+# screenshot
 
-#### ![screenshots](/screenshots/1.jpg)
+# ![screenshots](/screenshots/1.jpg)
 #### ![screenshots](/screenshots/2.jpg)
 #### ![screenshots](/screenshots/3.jpg)
 #### ![screenshots](/screenshots/4.jpg)
