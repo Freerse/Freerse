@@ -40,7 +40,7 @@ git clone https://github.com/Freerse/Freerse.git
 
 Use an Android Studio build action to install and run the app on your device or a simulator.
 
-## Setup Ios environment
+## Setup iOS environment
 
 1. Xcode 15.x
 2. iOS SDK 16.x
