@@ -53,7 +53,7 @@ Use an Android Studio build action to install and run the app on your device or 
 
 # Screenshots
 
-| Social applications built on decentralized protocols  |  
+| Social application built on the decentralized protocol Nostr |  
 |-------------------------------------------|
 | ![Home Freerse](./screenshots/1.png) | 
 
