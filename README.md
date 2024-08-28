@@ -40,13 +40,9 @@
 
 # screenshot
 
-<img src="./screenshots/1.jpg" alt="Freerse Logo" title="Freerse logo" width="280"/>
-
-# ![screenshots](/screenshots/1.jpg)
-#### ![screenshots](/screenshots/2.jpg)
-#### ![screenshots](/screenshots/3.jpg)
-
-
+<img src="./screenshots/1.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
+<img src="./screenshots/2.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
+<img src="./screenshots/3.png" alt="Freerse Logo" title="Freerse logo" width="480"/>
 
 
 ## Questions / Contact / Feedback
