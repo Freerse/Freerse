@@ -24,10 +24,6 @@
 
 ![](https://Freerse.com/screenshots/160/Freerse-release.jpg)
 
-## Dependencies
-
-- Xcode 15.x
-- iOS SDK 16.x
 
 ## Setup Android environment
 
@@ -45,12 +41,14 @@ Use an Android Studio build action to install and run the app on your device or 
 
 ## Setup Ios environment
 
-1. Clone this repository
-2. Set up flutter devlopment 
-3. Enter API keys in Config.xcconfig. 
-4. Open Freerse.xcodeproj in Xcode
-5. Wait for Package Dependencies to finish downloading
-6. Run
+1. Xcode 15.x
+2. iOS SDK 16.x
+3. Clone this repository
+4. Set up flutter devlopment 
+5. Enter API keys in Config.xcconfig. 
+6. Open Freerse.xcodeproj in Xcode
+7. Wait for Package Dependencies to finish downloading
+8. Run
 
 # Screenshots
 
