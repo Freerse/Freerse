@@ -53,7 +53,7 @@ Use an Android Studio build action to install and run the app on your device or 
 |-------------------------------------------|
 | ![Home Freerse](./screenshots/1.png) | 
 
-| Posts and long articles subscription publishing |  
+| Posts publishing and long articles subscription publishing |  
 |-------------------------------------------|
 | ![Publish Freerse](./screenshots/2.png) |
 
