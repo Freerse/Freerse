@@ -1,6 +1,6 @@
 # Freerse - a nostr client for  iPhone and Android
 
-**Decentralized social applications built on Nostr** **Nostr** : https://github.com/nostr-protocol/nostr
+**Decentralized social applications built on Nostr** : https://github.com/nostr-protocol/nostr
 
 **Freerse**: Freerse is a simple and easy to use Nostr app.  Value Rewards Creativity, see https://freerse.com for a list of features or to download releases.
 
