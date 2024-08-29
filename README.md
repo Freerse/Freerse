@@ -2,7 +2,7 @@
 
 <a href="https://Freerse.com">
     <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="80"/>
-    <h2>Freerse</h2>
+    <h1>Freerse</h1>
 </a>
 
 </div>
