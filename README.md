@@ -5,8 +5,6 @@
     <h1>Freerse</h1>
 
 
-</div>
-
 # Freerse - a nostr client for  iPhone and Android
 
 **Decentralized social applications built on Nostr.** : https://github.com/nostr-protocol/nostr
