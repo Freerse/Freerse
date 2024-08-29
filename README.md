@@ -3,7 +3,9 @@
 <a href="https://Freerse.com">
     <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="140"/>
     <h1>Freerse</h1>
+</a>
 
+</div>
 
 # Freerse - a nostr client for  iPhone and Android
 
