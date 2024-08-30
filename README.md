@@ -1,9 +1,9 @@
 <div align="center">
 
 <a href="https://Freerse.com">
-    <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="140"/>
-    <div style="font-size: 30px">Freerse</div>
+    <img src="./screenshots/Freerse180.png" alt="Freerse Logo" title="Freerse logo" width="140"/>  
 </a>
+<div style="font-size: 30px">Freerse</div>
 
 </div>
 
